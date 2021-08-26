@@ -6,6 +6,7 @@ dependencies:
   - python=3.7
   - ipykernel
   - dask
+  - netcdf4
   - xarray
   - numpy
   - pandas
